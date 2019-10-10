@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://localhost:4000</id>
+    <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-10T16:25:50.629Z</updated>
+    <updated>2019-10-10T16:31:59.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://localhost:4000"/>
-    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <link rel="alternate" href="https://ft2014107.github.io/"/>
+    <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
     <subtitle>自翻资源下载</subtitle>
-    <logo>http://localhost:4000/images/avatar.png</logo>
-    <icon>http://localhost:4000/favicon.ico</icon>
+    <logo>https://ft2014107.github.io//images/avatar.png</logo>
+    <icon>https://ft2014107.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bodence</rights>
     <entry>
         <title type="html"><![CDATA[【中英字幕】库普和卡米问世界第二季]]></title>
-        <id>http://localhost:4000/post/zhong-ying-zi-mu-ku-pu-he-qia-mi-wen-shi-jie-di-er-ji</id>
-        <link href="http://localhost:4000/post/zhong-ying-zi-mu-ku-pu-he-qia-mi-wen-shi-jie-di-er-ji">
+        <id>https://ft2014107.github.io//post/zhong-ying-zi-mu-ku-pu-he-qia-mi-wen-shi-jie-di-er-ji</id>
+        <link href="https://ft2014107.github.io//post/zhong-ying-zi-mu-ku-pu-he-qia-mi-wen-shi-jie-di-er-ji">
         </link>
         <updated>2019-10-10T16:07:11.000Z</updated>
         <summary type="html"><![CDATA[<p>下载链接:</p>
@@ -27,8 +27,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【中英字幕】米罗/迈罗 墨菲定律第二季]]></title>
-        <id>http://localhost:4000/post/milomurphylawS2</id>
-        <link href="http://localhost:4000/post/milomurphylawS2">
+        <id>https://ft2014107.github.io//post/milomurphylawS2</id>
+        <link href="https://ft2014107.github.io//post/milomurphylawS2">
         </link>
         <updated>2019-10-10T16:04:22.000Z</updated>
         <summary type="html"><![CDATA[<p>下载地址:</p>
@@ -40,8 +40,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[【中英字幕】米罗/迈罗 墨菲定律第一季]]></title>
-        <id>http://localhost:4000/post/milomurphylaw</id>
-        <link href="http://localhost:4000/post/milomurphylaw">
+        <id>https://ft2014107.github.io//post/milomurphylaw</id>
+        <link href="https://ft2014107.github.io//post/milomurphylaw">
         </link>
         <updated>2019-10-10T15:44:11.000Z</updated>
         <summary type="html"><![CDATA[<p>下载地址链接：</p>
