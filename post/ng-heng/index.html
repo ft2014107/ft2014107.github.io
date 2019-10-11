@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" >
 
-<title>Bodence</title>
+<title>欢迎 | Bodence</title>
 <meta name="description" content="自翻资源下载">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
@@ -12,6 +12,12 @@
 <link rel="shortcut icon" href="https://ft2014107.github.io//favicon.ico?v=1570774512524">
 <link rel="stylesheet" href="https://ft2014107.github.io//styles/main.css">
 
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css" />
+  
+
+  
 
 
 <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
@@ -90,72 +96,44 @@
 
       <div class="main-container">
         <div class="content-container" data-aos="fade-up">
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://ft2014107.github.io//post/coopcamiasktheworldS2">
-                  <h2 class="post-title">【中英字幕】库普和卡米问世界第二季</h2>
-                </a>
-                <div class="post-date">
-                  2019-10-11
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
+          <div class="post-detail">
+            <h2 class="post-title">欢迎</h2>
+            <div class="post-date">2019-10-11</div>
+            
+              <div class="feature-container" style="background-image: url('https://ft2014107.github.io//post-images/ng-heng.jpg')">
               </div>
-              
-                <a class="right" href="https://ft2014107.github.io//post/coopcamiasktheworldS2">
-                  <div class="feature-container" style="background-image: url('https://ft2014107.github.io//post-images/coopcamiasktheworldS2.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://ft2014107.github.io//post/milomurphylawS2">
-                  <h2 class="post-title">【中英字幕】米罗/迈罗 墨菲定律第二季</h2>
-                </a>
-                <div class="post-date">
-                  2019-10-11
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://ft2014107.github.io//post/milomurphylawS2">
-                  <div class="feature-container" style="background-image: url('https://ft2014107.github.io//post-images/milomurphylawS2.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
-            <article class="post-item">
-              <div class="left">
-                <a href="https://ft2014107.github.io//post/milomurphylaw">
-                  <h2 class="post-title">【中英字幕】米罗/迈罗 墨菲定律第一季</h2>
-                </a>
-                <div class="post-date">
-                  2019-10-10
-                </div>
-                <div class="post-abstract">
-                  
-                </div>
-              </div>
-              
-                <a class="right" href="https://ft2014107.github.io//post/milomurphylaw">
-                  <div class="feature-container" style="background-image: url('https://ft2014107.github.io//post-images/milomurphylaw.jpg')">
-                  </div>
-                </a>
-              
-            </article>
-          
+            
+            <div class="post-content">
+              <!-- more -->
+<h2 id="这里是bodence个人博客用于放置我翻译的视频资源">这里是Bodence个人博客，用于放置我翻译的视频资源。</h2>
+<p>本博客是基于Github，编辑用的是Gridea。</p>
+<!-- more -->
+<blockquote>
+<p>我的B站账号地址:<a href="https://space.bilibili.com/3753158">点这里</a><br>
+用来发布一些《米罗墨菲定律》的视频。</p>
+</blockquote>
+<!-- more -->
+<pre><code>我翻译制作时间并不长，是从19年3月开始的，
+当时主要是因为米罗太冷门没人翻译，
+才想着要不我来翻译好了。
+翻译水平并不高，所以请酌情观看，有错误可以留言指出。
+（虽然可能没时间改）
+</code></pre>
+<!-- more -->
 
-          <div class="pagination-container">
-  
-  
-</div>
+            </div>
+            
+            
+
+            
+              
+                <div id="gitalk-container" data-aos="fade-in"></div>
+              
+
+              
+            
+
+          </div>
 
         </div>
       </div>
@@ -177,6 +155,29 @@ var app = new Vue({
 })
 
 </script>
+
+
+  
+  
+    <script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+    <script>
+
+      var gitalk = new Gitalk({
+        clientID: '2e1bd6549ecf1e037d29',
+        clientSecret: '0b008192c218fce5637dc2a4e8db5c1e16edbe91',
+        repo: 'ft2014107.github.io',
+        owner: 'ft2014107',
+        admin: ['ft2014107'],
+        id: location.pathname,      // Ensure uniqueness and length less than 50
+        distractionFreeMode: false  // Facebook-like distraction free mode
+      })
+
+      gitalk.render('gitalk-container')
+
+    </script>
+  
+
+  
 
 
 
