@@ -16,7 +16,7 @@ function getCSS()
         datetoday.setTime(timenow);
         thehour = datetoday.getHours();
 
-        if (thehour<20)
+        if (thehour<22)
 
             display = "https://ft2014107.github.io//media/css/night.css";
 
@@ -24,7 +24,7 @@ function getCSS()
 
             display = "https://ft2014107.github.io//media/css/night.css";   
 
-        else if (thehour>20)
+        else if (thehour>22)
            
             display = "https://ft2014107.github.io//media/css/day.css";
 
@@ -49,6 +49,14 @@ var css = '<';
   <script src="https://cdn.bootcss.com/highlight.js/9.15.8/highlight.min.js"></script>
   <script>hljs.initHighlightingOnLoad();</script>
   <script>wow=new WOW({boxClass:'wow',animateClass:'animated',offset:0,mobile:true,live:true});wow.init();</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150204785-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-150204785-1');
+</script>
 
 <script type="text/javascript">
 window.onload=getCSS();
