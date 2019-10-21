@@ -1645,10 +1645,10 @@ td {
 }
 
       .main {
-        background: #405E1B;
+        max-width: 910px;
       }
     
-      body {
-        background: #C6D2CE;
+      .main {
+        background: #E5F1FA;
       }
     

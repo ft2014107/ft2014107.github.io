@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-21T13:48:03.085Z</updated>
+    <updated>2019-10-21T14:03:22.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -16,9 +16,8 @@
         <link href="https://ft2014107.github.io//post/billibilitest">
         </link>
         <updated>2019-10-21T11:46:39.000Z</updated>
-        <summary type="html"><![CDATA[<p>B站视频嵌入代码测试</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>B站视频嵌入代码测试</p>
+        <content type="html"><![CDATA[<!-- more -->
+<h2 id="b站视频嵌入代码测试">B站视频嵌入代码测试</h2>
 <!-- more -->
 <iframe src="//player.bilibili.com/player.html?aid=69834539&cid=121011394&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowFullScreen="true"quality="high" width="840" height="640" align="middle" allowScriptAccess="always"  type="application/x-shockwave-flash"> </iframe>
 <!-- more -->
