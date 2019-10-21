@@ -1,141 +1,97 @@
-<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" >
-
-<title>标签列表 | Bodence</title>
-<meta name="description" content="自翻资源下载">
-
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-
+  <meta charset="utf-8" />
+<meta name="description" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Bodence</title>
+<link rel="shortcut icon" href="https://ft2014107.github.io//favicon.ico?v=1571660815180">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
-<link rel="shortcut icon" href="https://ft2014107.github.io//favicon.ico?v=1571658820505">
 <link rel="stylesheet" href="https://ft2014107.github.io//styles/main.css">
 
-
-
-<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
-
-<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
-
-
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-150204785-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-150204785-1');
-</script>
+<script src="https://cdn.bootcss.com/moment.js/2.23.0/moment.min.js"></script>
 
 
   </head>
   <body>
-    <div id="app" class="main">
-
-      <div class="sidebar" :class="{ 'full-height': menuVisible }">
-  <div class="top-container" data-aos="fade-right">
-    <div class="top-header-container">
-      <a class="site-title-container" href="https://ft2014107.github.io/">
-        <img src="https://ft2014107.github.io//images/avatar.png?v=1571658820505" class="site-logo">
-        <h1 class="site-title">Bodence</h1>
-      </a>
-      <div class="menu-btn" @click="menuVisible = !menuVisible">
-        <div class="line"></div>
-      </div>
-    </div>
-    <div>
+    <div class="main">
+      <div class="main-content">
+        <div class="site-header">
+  <a href="https://ft2014107.github.io/">
+  <img class="avatar" src="https://ft2014107.github.io//images/avatar.png?v=1571660815180" alt="">
+  </a>
+  <h1 class="site-title">
+    Bodence
+  </h1>
+  <p class="site-description">
+    自翻资源下载
+  </p>
+  <div class="menu-container">
+    
       
-        
-          <a href="/" class="site-nav">
-            首页
-          </a>
-        
+        <a href="/" class="menu">
+          首页
+        </a>
       
-        
-          <a href="/archives" class="site-nav">
-            归档
-          </a>
-        
+    
       
-        
-          <a href="/tags" class="site-nav">
-            标签
-          </a>
-        
+        <a href="/archives" class="menu">
+          归档
+        </a>
       
-        
-          <a href="https://ft2014107.github.io//post/ng-heng/" class="site-nav">
-            关于
-          </a>
-        
+    
       
-    </div>
+        <a href="/tags" class="menu">
+          标签
+        </a>
+      
+    
+      
+        <a href="https://ft2014107.github.io//post/ng-heng/" class="menu">
+          关于
+        </a>
+      
+    
   </div>
-  <div class="bottom-container" data-aos="flip-up" data-aos-offset="0">
-    <div class="social-container">
+  <div class="social-container">
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-        
+    
       
-        
-      
-    </div>
-    <div class="site-description">
-      自翻资源下载
-    </div>
-    <div class="site-footer">
-      Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
-    </div>
+    
   </div>
 </div>
 
 
-      <div class="main-container">
-        <div class="content-container" data-aos="fade-up">
-          <h2 class="tag-list-title">标签列表</h2>
-          <div class="tags-container">
-            
-              <a class="tag" href="https://ft2014107.github.io//tag/rC5683hLp">库普和卡米问世界</a>
-            
-              <a class="tag" href="https://ft2014107.github.io//tag/cPUf4pABt">Coop &amp; Cami Ask the World</a>
-            
-              <a class="tag" href="https://ft2014107.github.io//tag/XC9RPQelN">米罗墨菲定律</a>
-            
-              <a class="tag" href="https://ft2014107.github.io//tag/kbhXt48Qp">迈罗墨菲定律</a>
-            
-              <a class="tag" href="https://ft2014107.github.io//tag/Y7c1_RXZ8">Milo Murphy&#39;s Law</a>
-            
-          </div>
+        <div class="tags-container">
+          
+            <a class="tag" href="https://ft2014107.github.io//tag/rC5683hLp">库普和卡米问世界</a>
+          
+            <a class="tag" href="https://ft2014107.github.io//tag/cPUf4pABt">Coop &amp; Cami Ask the World</a>
+          
+            <a class="tag" href="https://ft2014107.github.io//tag/XC9RPQelN">米罗墨菲定律</a>
+          
+            <a class="tag" href="https://ft2014107.github.io//tag/kbhXt48Qp">迈罗墨菲定律</a>
+          
+            <a class="tag" href="https://ft2014107.github.io//tag/Y7c1_RXZ8">Milo Murphy&#39;s Law</a>
+          
         </div>
-      </div>
-    </div>
 
-    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+        <div class="site-footer">
+  Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a>
+</div>
 
-<script type="application/javascript">
-
-AOS.init();
-
-hljs.initHighlightingOnLoad()
-
-var app = new Vue({
-  el: '#app',
-  data: {
-    menuVisible: false,
-  },
-})
-
+<script>
+  hljs.initHighlightingOnLoad()
 </script>
 
-
-
-
+      </div>
+    </div>
   </body>
 </html>
