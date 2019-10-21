@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-21T14:03:22.664Z</updated>
+    <updated>2019-10-21T19:56:13.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -10,20 +10,6 @@
     <logo>https://ft2014107.github.io//images/avatar.png</logo>
     <icon>https://ft2014107.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bodence</rights>
-    <entry>
-        <title type="html"><![CDATA[B站视频导入测试]]></title>
-        <id>https://ft2014107.github.io//post/billibilitest</id>
-        <link href="https://ft2014107.github.io//post/billibilitest">
-        </link>
-        <updated>2019-10-21T11:46:39.000Z</updated>
-        <content type="html"><![CDATA[<!-- more -->
-<h2 id="b站视频嵌入代码测试">B站视频嵌入代码测试</h2>
-<!-- more -->
-<iframe src="//player.bilibili.com/player.html?aid=69834539&cid=121011394&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowFullScreen="true"quality="high" width="840" height="640" align="middle" allowScriptAccess="always"  type="application/x-shockwave-flash"> </iframe>
-<!-- more -->
-<!-- more -->
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[【中英字幕】库普和卡米问世界第二季 更新至S02E02]]></title>
         <id>https://ft2014107.github.io//post/coopcamiasktheworldS2</id>
