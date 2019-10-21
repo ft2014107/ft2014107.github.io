@@ -2458,6 +2458,9 @@ ul.links li:hover .bg {
   }
 }
 
+    header {background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),url(https://wx4.sinaimg.cn/large/00684C0Rgy1g062crjctlj30u00u07wh.jpg);}
+    
+    
     .valine {
         display: none;
       }
