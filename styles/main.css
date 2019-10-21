@@ -1644,6 +1644,10 @@ td {
   text-align: right;
 }
 
+      .main {
+        background: #405E1B;
+      }
+    
       body {
         background: #C6D2CE;
       }
