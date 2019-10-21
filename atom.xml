@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-21T13:20:34.782Z</updated>
+    <updated>2019-10-21T13:27:37.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -12,13 +12,13 @@
     <rights>All rights reserved 2019, Bodence</rights>
     <entry>
         <title type="html"><![CDATA[B站视频导入测试]]></title>
-        <id>https://ft2014107.github.io//post/1</id>
-        <link href="https://ft2014107.github.io//post/1">
+        <id>https://ft2014107.github.io//post/billibilitest</id>
+        <link href="https://ft2014107.github.io//post/billibilitest">
         </link>
         <updated>2019-10-21T11:46:39.000Z</updated>
-        <summary type="html"><![CDATA[<p>1</p>
+        <summary type="html"><![CDATA[<p>B站视频嵌入代码测试</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>1</p>
+        <content type="html"><![CDATA[<p>B站视频嵌入代码测试</p>
 <!-- more -->
 <iframe src="//player.bilibili.com/player.html?aid=69834539&cid=121011394&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowFullScreen="true"quality="high" width="840" height="640" align="middle" allowScriptAccess="always"  type="application/x-shockwave-flash"> </iframe>
 <!-- more -->
