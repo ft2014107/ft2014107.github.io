@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-22T03:51:42.830Z</updated>
+    <updated>2019-10-22T04:43:38.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://ft2014107.github.io//images/avatar.png</logo>
     <icon>https://ft2014107.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bodence</rights>
+    <entry>
+        <title type="html"><![CDATA[台湾地区Dianeychannel 在线看]]></title>
+        <id>https://ft2014107.github.io//post/disneychannel</id>
+        <link href="https://ft2014107.github.io//post/disneychannel">
+        </link>
+        <updated>2019-10-22T04:09:35.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<script src="html5media.min.js"></script>
+<p><video src="http://pili-live-hdl.qhmywl.com/dsdtv/198038b134ad459d9cc251038c74685a.flv" width="840" height="640" controls preload></video></p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中英字幕】库普和卡米问世界第二季 更新至S02E02]]></title>
         <id>https://ft2014107.github.io//post/coopcamiasktheworldS2</id>
