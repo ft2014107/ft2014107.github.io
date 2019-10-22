@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-22T08:48:41.445Z</updated>
+    <updated>2019-10-22T09:16:27.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://ft2014107.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bodence</rights>
     <entry>
-        <title type="html"><![CDATA[中国台湾地区Dianeychannel 在线看]]></title>
+        <title type="html"><![CDATA[中国台湾地区Disneychannel 在线看]]></title>
         <id>https://ft2014107.github.io//post/disneychannel</id>
         <link href="https://ft2014107.github.io//post/disneychannel">
         </link>
