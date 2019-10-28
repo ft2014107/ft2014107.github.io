@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2019-10-28T10:45:49.994Z</updated>
+    <updated>2019-10-28T11:13:12.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io//atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://ft2014107.github.io//images/avatar.png</logo>
     <icon>https://ft2014107.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Bodence</rights>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://ft2014107.github.io//post/3</id>
+        <link href="https://ft2014107.github.io//post/3">
+        </link>
+        <updated>2019-10-28T10:55:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>1</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>1</p>
+<!-- more -->
+<link href="https://blog.blinkstar.cn/styles/main.css" type="text/css" rel="stylesheet" 
+/>
+<section><div class="reward"><div class="reward-button">赏<span class="reward-code"><span class="alipay-code"><div><img class="alipay-img" src="https://blog.blinkstar.cn/media/images/alipay.webp"><figcaption></figcaption></div><b>支付宝打赏</b></span><span class="wechat-code"><div><img class="wechat-img" src="https://blog.blinkstar.cn/media/images/wechat.webp"><figcaption></figcaption></div><b>微信打赏</b></span></span></div></div><div style="text-align:center;color: #ccc;font-size:14px;">如果觉得这篇文章对您有帮助，可以请作者喝一杯饮料哦🥤</div></section>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[中国台湾地区Disneychannel 在线看]]></title>
         <id>https://ft2014107.github.io//post/disneychannel</id>
