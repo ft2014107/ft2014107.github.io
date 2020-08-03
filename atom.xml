@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ft2014107.github.io/</id>
     <title>Bodence</title>
-    <updated>2020-07-19T02:32:46.762Z</updated>
+    <updated>2020-08-03T10:21:41.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ft2014107.github.io/"/>
     <link rel="self" href="https://ft2014107.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://ft2014107.github.io/images/avatar.png</logo>
     <icon>https://ft2014107.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Bodence</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://ft2014107.github.io/post/ce-shi/</id>
+        <link href="https://ft2014107.github.io/post/ce-shi/">
+        </link>
+        <updated>2020-06-23T06:05:55.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<!-- more -->
+<div id="player" style="display: block;"><video autoplay="" controls="" width="100%" src="https://static.cowtransfer.com/75474262-df8a-44cc-9b29-8855d1973dbb%2F95814052-bbbd-44a7-8ea3-1a0a7b5dce79%2FUpside-Down.Magic.2020.1080p.WEBRip.x264-RARBG_x264.mp4?t-s=1596449977003&t-c=a8c51cca-7c94-4bf4-9900-41a21b4b95c8&attname=Upside-Down.Magic.2020.1080p.WEBRip.x264-RARBG_x264.mp4"></video></div>
+<!-- more -->
+<!-- more -->
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【中英字幕】库普和卡米问世界第二季 更新至S02E10]]></title>
         <id>https://ft2014107.github.io/post/coopcamiasktheworldS2/</id>
