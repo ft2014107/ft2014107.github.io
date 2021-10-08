@@ -5,397 +5,389 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1313, server: 188.95.55.120, port: 44820, type: ss, cipher: aes-256-gcm, password: jspgz9G3VmvBMCgMUWLBaZHu}
-  - {name: 🇧🇪 BE_1236, server: 188.95.55.114, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 US_18313, server: 192.46.211.249, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 US_17212, server: 143.244.57.118, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇧🇪 BE_1264, server: 188.95.55.114, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: GB_5003, server: 185.108.105.82, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_14533, server: 66.115.177.143, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇷🇴 sfzy888.com _🇷🇴RO_421, server: 194.110.115.83, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
+  - {name: 🇧🇪 BE_1271, server: 188.95.55.114, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: 🇷🇴 sfzy888.com _🇷🇴RO_9796, server: 79.110.54.133, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: sfzy888.com _🇮🇹IT_7031, server: 82.102.26.93, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
+  - {name: 🇷🇴 sfzy888.com _🇷🇴RO_9906, server: 193.29.107.123, port: 39772, type: ss, cipher: aes-256-gcm, password: CUndSZnYsPKcu6Kj8THVMBHD}
+  - {name: sfzy888.com _🇦🇿AZ_1069, server: 62.212.239.51, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇧🇷 BR_1510, server: 128.14.222.218, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: sfzy888.com _🇮🇹IT_6637, server: 82.102.26.93, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: GB_4963, server: 185.108.105.82, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇫🇷 sfzy888.com _🇫🇷FR_3842, server: 185.166.84.51, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13863, server: 63.141.236.245, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: NO_8108, server: 46.29.218.6, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇹🇭 TH_11420, server: 27.131.164.94, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_505, server: 143.244.56.230, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇫🇷 FR_3982, server: 5.39.70.138, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_15002, server: 66.115.177.156, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 US_17215, server: 143.244.57.118, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_16698, server: 185.246.209.55, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇫🇷 sfzy888.com _🇫🇷FR_3829, server: 185.166.84.51, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_16675, server: 185.246.209.55, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
+  - {name: 🇺🇸 US_17194, server: 143.244.57.118, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_14437, server: 66.115.177.143, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
+  - {name: 🇧🇪 BE_1273, server: 188.95.55.114, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇧🇪 BE_1246, server: 188.95.55.114, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: GB_5025, server: 185.108.105.82, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
+  - {name: 🇺🇸 US_18321, server: 167.88.63.82, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844, server: c23s801.jamjams.net, port: 61173, type: vmess, uuid: 9d1043a6-e87e-4bb7-8858-c1185e9c0c3b, alterId: 8, cipher: auto, tls: false}
+  - {name: GB_5042, server: 185.108.105.82, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_17186, server: 66.115.177.156, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
+  - {name: GB_4970, server: 185.108.105.82, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_15591, server: 66.115.177.156, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: GB_4979, server: 185.108.105.82, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_15621, server: 66.115.177.141, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: sfzy888.com _🇮🇹IT_6327, server: 82.102.26.93, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: CA_1625, server: 72.140.224.197, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
   - {name: 🇺🇸 sfzy888.com _🇺🇸US_14164, server: 66.115.177.141, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇫🇷 sfzy888.com _🇫🇷FR_4088, server: 185.166.84.81, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: PL_8236, server: 51.77.53.200, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1355, server: 188.95.55.120, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇧🇪 BE_1282, server: 188.95.55.114, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: PL_8237, server: 51.77.52.206, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇫🇷 sfzy888.com _🇫🇷FR_4142, server: 185.166.84.51, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_15759, server: 66.115.177.143, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1354, server: 188.95.55.120, port: 33998, type: ss, cipher: aes-256-gcm, password: NHwQTPLCfaTMSqTnU3mjcSxe}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_1083, server: 66.115.177.143, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1278, server: 188.95.55.120, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: sfzy888.com _🇮🇹IT_6124, server: 82.102.26.93, port: 42185, type: ss, cipher: aes-256-gcm, password: FaTG4zALZru72gxjgSHQ7Jdh}
-  - {name: sfzy888.com _🇮🇹IT_6656, server: 82.102.26.93, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
-  - {name: sfzy888.com _🇮🇹IT_6513, server: 82.102.26.93, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1322, server: 188.95.55.120, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12668-clone, server: 66.115.177.156, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇧🇪 BE_1253, server: 188.95.55.114, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1280, server: 188.95.55.120, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇧🇪 BE_1267, server: 188.95.55.114, port: 45329, type: ss, cipher: aes-256-gcm, password: CXSjgD7u7Ar7GxkZ4CgTMUsj}
-  - {name: 🇧🇪 BE_1284, server: 188.95.55.114, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1318, server: 188.95.55.120, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
-  - {name: 🇧🇪 BE_1243, server: 188.95.55.114, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
-  - {name: 🇦🇺 AU_427, server: 172.105.172.37, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇦🇺 AU_426, server: 172.105.174.182, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_14587, server: 66.115.177.143, port: 50024, type: ss, cipher: aes-256-gcm, password: b2jDPHUQxCNa2KmGHZjy7C4B}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13870, server: 66.115.177.156, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1272, server: 188.95.55.120, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: sfzy888.com _🇮🇹IT_6104, server: 82.102.26.93, port: 48938, type: ss, cipher: aes-256-gcm, password: 4ejJ8n5ddLuYDUHGXJre2ufJ}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1352, server: 188.95.55.120, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1312, server: 188.95.55.120, port: 46354, type: ss, cipher: aes-256-gcm, password: MYPKdC7n6qjL6xmJBBcrzzqS}
-  - {name: sfzy888.com _🇮🇹IT_6481, server: 82.102.26.93, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1276, server: 188.95.55.120, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13568, server: 66.115.177.156, port: 41676, type: ss, cipher: aes-256-gcm, password: z6pH3RyttkRWhJ5tpRyt6dYk}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_14574, server: 66.115.177.143, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: sfzy888.com _🇵🇱PL_726, server: 5.133.14.196, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1277, server: 188.95.55.120, port: 41738, type: ss, cipher: aes-256-gcm, password: X6yMGXnfUsuKTvEDYZSLPk4d}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1340, server: 188.95.55.120, port: 48970, type: ss, cipher: aes-256-gcm, password: ZKEsXkFbUZ2z667YA8A7cEDP}
-  - {name: sfzy888.com _🇮🇹IT_6075, server: 82.102.26.93, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1314, server: 188.95.55.120, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
-  - {name: CA_1597, server: 72.140.224.195, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao}
-  - {name: 🇧🇪 sfzy888.com _🇧🇪BE_1327, server: 188.95.55.120, port: 49126, type: ss, cipher: aes-256-gcm, password: wrCaGtrUbzeRqQLdc8Kmk3Nd}
-  - {name: 🇧🇪 BE_1357, server: 188.95.55.114, port: 38742, type: ss, cipher: aes-256-gcm, password: DKXfWwc4ebscpXTKpbt85rSH}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13706, server: 63.141.236.245, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13749, server: 66.115.177.156, port: 33148, type: ss, cipher: aes-256-gcm, password: CMduaFXddcQbwNAAs7xFDnc8}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: 📢 谷歌FCM
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -418,50 +410,49 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1313
-      - 🇧🇪 BE_1236
+      - 🇺🇸 US_18313
+      - 🇺🇸 US_17212
+      - 🇧🇪 BE_1264
+      - GB_5003
+      - 🇺🇸 sfzy888.com _🇺🇸US_14533
+      - 🇷🇴 sfzy888.com _🇷🇴RO_421
+      - 🇧🇪 BE_1271
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9796
+      - sfzy888.com _🇮🇹IT_7031
+      - 🇷🇴 sfzy888.com _🇷🇴RO_9906
+      - sfzy888.com _🇦🇿AZ_1069
+      - 🇧🇷 BR_1510
+      - sfzy888.com _🇮🇹IT_6637
+      - GB_4963
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3842
+      - 🇺🇸 sfzy888.com _🇺🇸US_13863
+      - NO_8108
+      - 🇹🇭 TH_11420
+      - 🇺🇸 sfzy888.com _🇺🇸US_505
+      - 🇫🇷 FR_3982
+      - 🇺🇸 sfzy888.com _🇺🇸US_15002
+      - 🇺🇸 US_17215
+      - 🇺🇸 sfzy888.com _🇺🇸US_16698
+      - 🇫🇷 sfzy888.com _🇫🇷FR_3829
+      - 🇺🇸 sfzy888.com _🇺🇸US_16675
+      - 🇺🇸 US_17194
+      - 🇺🇸 sfzy888.com _🇺🇸US_14437
+      - 🇧🇪 BE_1273
+      - 🇧🇪 BE_1246
+      - GB_5025
+      - 🇺🇸 US_18321
+      - 🇺🇸 sfzy888.com _🇺🇸US-🇺🇸US_18844
+      - GB_5042
+      - 🇺🇸 sfzy888.com _🇺🇸US_17186
+      - GB_4970
+      - 🇺🇸 sfzy888.com _🇺🇸US_15591
+      - GB_4979
+      - 🇺🇸 sfzy888.com _🇺🇸US_15621
+      - sfzy888.com _🇮🇹IT_6327
+      - CA_1625
       - 🇺🇸 sfzy888.com _🇺🇸US_14164
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4088
-      - PL_8236
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1355
-      - 🇧🇪 BE_1282
-      - PL_8237
-      - 🇫🇷 sfzy888.com _🇫🇷FR_4142
-      - 🇺🇸 sfzy888.com _🇺🇸US_15759
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1354
-      - 🇺🇸 sfzy888.com _🇺🇸US_1083
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1278
-      - sfzy888.com _🇮🇹IT_6124
-      - sfzy888.com _🇮🇹IT_6656
-      - sfzy888.com _🇮🇹IT_6513
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1322
-      - 🇺🇸 sfzy888.com _🇺🇸US_12668-clone
-      - 🇧🇪 BE_1253
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1280
-      - 🇧🇪 BE_1267
-      - 🇧🇪 BE_1284
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1318
-      - 🇧🇪 BE_1243
-      - 🇦🇺 AU_427
-      - 🇦🇺 AU_426
-      - 🇺🇸 sfzy888.com _🇺🇸US_14587
-      - 🇺🇸 sfzy888.com _🇺🇸US_13870
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1272
-      - sfzy888.com _🇮🇹IT_6104
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1352
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1312
-      - sfzy888.com _🇮🇹IT_6481
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1276
-      - 🇺🇸 sfzy888.com _🇺🇸US_13568
-      - 🇺🇸 sfzy888.com _🇺🇸US_14574
-      - sfzy888.com _🇵🇱PL_726
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1277
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1340
-      - sfzy888.com _🇮🇹IT_6075
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1314
-      - CA_1597
-      - 🇧🇪 sfzy888.com _🇧🇪BE_1327
-      - 🇧🇪 BE_1357
+      - 🇺🇸 sfzy888.com _🇺🇸US_13706
+      - 🇺🇸 sfzy888.com _🇺🇸US_13749
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
