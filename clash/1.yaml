@@ -5,203 +5,195 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
-  - {name: 🇺🇸 US_11701 |41.73Mb, server: 156.146.33.66, port: 49468, type: ss, cipher: aes-256-gcm, password: LsYSQDxmPj9AcWpSX5HrYfu6}
-  - {name: 🇺🇸 US_11706 |40.29Mb, server: 156.146.33.66, port: 34687, type: ss, cipher: aes-256-gcm, password: txmK9WhwP6WPhP7hqSBLVxpN}
-  - {name: ZZ_14034 |111.46Mb, server: 138.199.42.170, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
-  - {name: 🇹🇷 TR_8323 |36.10Mb, server: 107.150.94.12, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_🇺🇸US_11140, server: 198.8.92.67, port: 49719, type: ss, cipher: aes-256-gcm, password: 42SjT9vBF6ma9eFF3URaJpQ4}
+  - {name: 🇨🇳 TW_7370, server: 2.58.242.54, port: 47027, type: ss, cipher: aes-256-gcm, password: Vt5pBJFwdtNB26cJbTXxm88Z}
+  - {name: 🇨🇳 Pool_🇹🇼TW_7168, server: 2.58.241.29, port: 42166, type: ss, cipher: aes-256-gcm, password: H9Dbn3szZMqLR3NpgEFEPCKb}
+  - {name: 🇺🇸 Pool_🇺🇸US_11085, server: 198.8.92.67, port: 35294, type: ss, cipher: aes-256-gcm, password: J9Y2ncrdPEC38gwydNFFGBna}
+  - {name: 🇷🇴 Pool_🇷🇴RO_5722, server: 91.219.215.69, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
   - {name: 🇺🇸 sfzy888.com _🇺🇸US_12456, server: 198.147.22.87, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 US_11713 |45.27Mb, server: 156.146.33.66, port: 38620, type: ss, cipher: aes-256-gcm, password: Kquv5UhvZXNMemAQy8DxZ7qn}
-  - {name: 🇸🇪 SE_8015 |39.41Mb, server: 185.76.9.56, port: 36460, type: ss, cipher: aes-256-gcm, password: yUXad7DGF8L5cTShEpnp2N6z}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13134, server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12213, server: 198.147.22.87, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
-  - {name: 🇸🇪 SE_7996 |28.10Mb, server: 185.76.9.56, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
-  - {name: 🇸🇪 SE_7622 |20.60Mb, server: 185.76.9.56, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇸🇪 SE_7969 |45.05Mb, server: 185.76.9.56, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇨🇳 Pool_🇹🇼TW_7200, server: 2.58.241.29, port: 50695, type: ss, cipher: aes-256-gcm, password: gqtwGu9bVreJqL3FTHSVKGzy}
+  - {name: 🇺🇸 Pool_🇺🇸US_11125, server: 198.8.92.67, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇨🇳 TW_7155, server: 2.58.242.54, port: 43893, type: ss, cipher: aes-256-gcm, password: YyCBeDdYX4cadHpCkkmdJLq8}
   - {name: 🇸🇪 SE_7983 |41.23Mb, server: 185.76.9.56, port: 44742, type: ss, cipher: aes-256-gcm, password: QCStKzZ56SHBc4tL7stCEqqd}
-  - {name: 🇸🇪 SE_7972 |35.80Mb, server: 185.76.9.56, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
-  - {name: 🇸🇪 SE_7986 |50.45Mb, server: 185.76.9.56, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12215, server: 198.8.92.84, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12219, server: 198.8.92.84, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12302, server: 198.8.92.84, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
-  - {name: 🇺🇸 US_9790 |11.13Mb, server: 198.8.92.84, port: 49719, type: ss, cipher: aes-256-gcm, password: 42SjT9vBF6ma9eFF3URaJpQ4}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12220, server: 198.8.92.84, port: 42816, type: ss, cipher: aes-256-gcm, password: tBKBf4pVzNCFKdbPgvwrNXq3}
+  - {name: 🇺🇸 Pool_🇺🇸US_11114, server: 198.8.92.67, port: 44745, type: ss, cipher: aes-256-gcm, password: fyXdw87yCH9SAmFkPvsvLVqC}
   - {name: 🇸🇪 SE_8011 |49.54Mb, server: 185.76.9.56, port: 32843, type: ss, cipher: aes-256-gcm, password: G35YSR2LFNEM9bq2dkjmKQRr}
-  - {name: 🇺🇸 US_14167 |30.87Mb, server: 198.8.92.84, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
-  - {name: 🇸🇪 SE_8006 |45.22Mb, server: 185.76.9.56, port: 44102, type: ss, cipher: aes-256-gcm, password: zHKYS9DeAjvv43EwgDfyEg4d}
+  - {name: 🇺🇸 Pool_🇺🇸US_10710, server: 198.147.22.87, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13134, server: 198.147.22.87, port: 50168, type: ss, cipher: aes-256-gcm, password: WCuz7yrfZSCQQXSNrtGPz2HT}
+  - {name: 🇸🇪 SE_7996 |28.10Mb, server: 185.76.9.56, port: 34815, type: ss, cipher: aes-256-gcm, password: LkFAzkzXkSCRYa2CsRdL8cGb}
+  - {name: 🇺🇸 Pool_🇺🇸US_11119, server: 198.8.92.67, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
+  - {name: 🇸🇪 SE_7969 |45.05Mb, server: 185.76.9.56, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
+  - {name: 🇸🇪 SE_7986 |50.45Mb, server: 185.76.9.56, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇺🇸 US_9805 |16.22Mb, server: 198.8.92.84, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
   - {name: 🇺🇸 US_9791 |10.62Mb, server: 198.8.92.84, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12292, server: 198.8.92.84, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
+  - {name: 🇺🇸 US_13717 |25.21Mb, server: 198.8.92.84, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
   - {name: 🇺🇸 US_14206 | 3.40Mb, server: 198.8.92.84, port: 45746, type: ss, cipher: aes-256-gcm, password: wEsFcHCvbL4eJkL4DZQa7RgR}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_13389, server: 198.8.92.84, port: 37473, type: ss, cipher: aes-256-gcm, password: enctdKyJfSu76VqznKwTt6Ap}
+  - {name: 🇫🇷 FR_3747 |51.21Mb, server: 185.108.106.180, port: 49653, type: ss, cipher: aes-256-gcm, password: Y9GcTPemHMKEkrfGQPJqFDNr}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12218, server: 198.8.92.84, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12302, server: 198.8.92.84, port: 47121, type: ss, cipher: aes-256-gcm, password: CTK8GXFQgKYQErrghPJfZ6tk}
+  - {name: ZZ_14034 |111.46Mb, server: 138.199.42.170, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
+  - {name: 🇺🇸 Pool_🇺🇸US_10741, server: 198.8.92.84, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 US_14167 |30.87Mb, server: 198.8.92.84, port: 46642, type: ss, cipher: aes-256-gcm, password: gYL83DQWXuDbxmZAVVtUTXaK}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12877, server: 198.8.92.84, port: 46412, type: ss, cipher: aes-256-gcm, password: GEqk9WGyybeyXW97YEdanDYs}
   - {name: 🇺🇸 sfzy888.com _🇺🇸US_11813, server: 198.8.92.84, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
   - {name: 🇺🇸 US_9794 | 8.95Mb, server: 198.8.92.84, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12292, server: 198.8.92.84, port: 38747, type: ss, cipher: aes-256-gcm, password: RtbLkxbJZpUQ6m8y4qAeLYZj}
-  - {name: 🇹🇷 TR_8324 |37.79Mb, server: 107.150.94.12, port: 41992, type: ss, cipher: aes-256-gcm, password: XmQSxDCn5ehpcq6DBYms8FJf}
-  - {name: 🇺🇸 US_13717 |25.21Mb, server: 198.8.92.84, port: 45948, type: ss, cipher: aes-256-gcm, password: j76EXqJcQhuQTr3EvUf7xaK9}
-  - {name: 🇸🇪 SE_8008 |45.42Mb, server: 185.76.9.56, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
-  - {name: 🇺🇸 US_9799 |11.97Mb, server: 198.8.92.84, port: 40282, type: ss, cipher: aes-256-gcm, password: Pvvaw486867D2w4yctL2ULTQ}
-  - {name: 🇫🇷 FR_3092 | 3.64Mb, server: 145.239.1.137, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
-  - {name: 🇫🇷 FR_3923 |33.08Mb, server: 145.239.1.137, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12876, server: 198.8.92.84, port: 44539, type: ss, cipher: aes-256-gcm, password: r6hDrkP4Et6EENTS8Qy7Tcmg}
-  - {name: 🇸🇪 SE_7988 |46.62Mb, server: 185.76.9.56, port: 48089, type: ss, cipher: aes-256-gcm, password: apqQgXJyVDsdJMAYV4xspRFK}
-  - {name: 🇫🇷 FR_3837 |61.14Mb, server: 145.239.1.137, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
-  - {name: 🇺🇸 Pool_🇺🇸US_12297, server: 45.89.173.205, port: 33992, type: ss, cipher: aes-256-gcm, password: 8n6pwAcrrv2pj6tFY2p3TbQ6}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12218, server: 198.8.92.84, port: 31764, type: ss, cipher: aes-256-gcm, password: YgusH2MWA8PWc3p2VDsR7AVv}
-  - {name: 🇺🇸 US_9805 |16.22Mb, server: 198.8.92.84, port: 35200, type: ss, cipher: aes-256-gcm, password: WBLAbN6AwtV5avBx73hFRLB3}
-  - {name: 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484, server: 145.239.1.137, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12219, server: 198.8.92.84, port: 35371, type: ss, cipher: aes-256-gcm, password: pjeDhAJGuML8xKUxcjRqq6a9}
   - {name: 🇺🇸 sfzy888.com _🇺🇸US_12293, server: 198.8.92.84, port: 39720, type: ss, cipher: aes-256-gcm, password: kq8xQKC3K4jYQPwLXTNbJjm6}
-  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12877, server: 198.8.92.84, port: 46412, type: ss, cipher: aes-256-gcm, password: GEqk9WGyybeyXW97YEdanDYs}
-  - {name: 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839, server: t5.ssrsub.com, port: 1033, type: trojan, password: 92a95e6d-cf89-42ee-8110-66fab6871e2f, sni: t5.ssrsub.com}
+  - {name: 🇸🇪 SE_7972 |35.80Mb, server: 185.76.9.56, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇺🇸 US_13582 | 8.66Mb, server: 198.8.92.84, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp}
+  - {name: 🇺🇸 Pool_🇺🇸US_11132, server: 198.8.92.67, port: 48794, type: ss, cipher: aes-256-gcm, password: r9Q3adc3ru9sfBDPEj4yp6U6}
+  - {name: 🇸🇪 SE_8008 |45.42Mb, server: 185.76.9.56, port: 46726, type: ss, cipher: aes-256-gcm, password: 2fqKbFPGHpcmMTJzGsUbsfYf}
+  - {name: 🇺🇸 Pool_🇺🇸US_11090, server: 198.8.92.67, port: 37588, type: ss, cipher: aes-256-gcm, password: kD9vkjnE6dsUzwQfvKkPkQAd}
+  - {name: 🇸🇪 SE_7999 |49.06Mb, server: 185.76.9.56, port: 39556, type: ss, cipher: aes-256-gcm, password: g4AfpNELpdYEeLYhM8XCX9se}
+  - {name: 🇺🇸 sfzy888.com _🇺🇸US_12295, server: 198.8.92.84, port: 41372, type: ss, cipher: aes-256-gcm, password: 5kGAhC3AmVC35GbruHjSrZf2}
+  - {name: 🇹🇷 TR_8323 |36.10Mb, server: 107.150.94.12, port: 31572, type: ss, cipher: aes-256-gcm, password: n8w4StnbVD9dmXYn4Ajt87EA}
+  - {name: 🇺🇸 Pool_🇺🇸US_9143, server: 45.89.173.205, port: 42304, type: ss, cipher: aes-256-gcm, password: p26v2JwhQVHDHsXk66fXt56r}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -212,152 +204,146 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -373,51 +359,49 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 US_11701 |41.73Mb
-      - 🇺🇸 US_11706 |40.29Mb
-      - ZZ_14034 |111.46Mb
-      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11140
+      - 🇨🇳 TW_7370
+      - 🇨🇳 Pool_🇹🇼TW_7168
+      - 🇺🇸 Pool_🇺🇸US_11085
+      - 🇷🇴 Pool_🇷🇴RO_5722
       - 🇺🇸 sfzy888.com _🇺🇸US_12456
-      - 🇺🇸 US_11713 |45.27Mb
-      - 🇸🇪 SE_8015 |39.41Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13134
-      - 🇺🇸 sfzy888.com _🇺🇸US_12213
-      - 🇸🇪 SE_7996 |28.10Mb
-      - 🇸🇪 SE_7622 |20.60Mb
-      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇨🇳 Pool_🇹🇼TW_7200
+      - 🇺🇸 Pool_🇺🇸US_11125
+      - 🇨🇳 TW_7155
       - 🇸🇪 SE_7983 |41.23Mb
-      - 🇸🇪 SE_7972 |35.80Mb
-      - 🇸🇪 SE_7986 |50.45Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12215
-      - 🇺🇸 sfzy888.com _🇺🇸US_12219
-      - 🇺🇸 sfzy888.com _🇺🇸US_12302
-      - 🇺🇸 US_9790 |11.13Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12220
+      - 🇺🇸 Pool_🇺🇸US_11114
       - 🇸🇪 SE_8011 |49.54Mb
-      - 🇺🇸 US_14167 |30.87Mb
-      - 🇸🇪 SE_8006 |45.22Mb
+      - 🇺🇸 Pool_🇺🇸US_10710
+      - 🇺🇸 sfzy888.com _🇺🇸US_13134
+      - 🇸🇪 SE_7996 |28.10Mb
+      - 🇺🇸 Pool_🇺🇸US_11119
+      - 🇸🇪 SE_7969 |45.05Mb
+      - 🇸🇪 SE_7986 |50.45Mb
+      - 🇺🇸 US_9805 |16.22Mb
       - 🇺🇸 US_9791 |10.62Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12292
+      - 🇺🇸 US_13717 |25.21Mb
       - 🇺🇸 US_14206 | 3.40Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_13389
+      - 🇫🇷 FR_3747 |51.21Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12218
+      - 🇺🇸 sfzy888.com _🇺🇸US_12302
+      - ZZ_14034 |111.46Mb
+      - 🇺🇸 Pool_🇺🇸US_10741
+      - 🇺🇸 US_14167 |30.87Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12877
       - 🇺🇸 sfzy888.com _🇺🇸US_11813
       - 🇺🇸 US_9794 | 8.95Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12292
-      - 🇹🇷 TR_8324 |37.79Mb
-      - 🇺🇸 US_13717 |25.21Mb
-      - 🇸🇪 SE_8008 |45.42Mb
-      - 🇺🇸 US_9799 |11.97Mb
-      - 🇫🇷 FR_3092 | 3.64Mb
-      - 🇫🇷 FR_3923 |33.08Mb
-      - 🇺🇸 sfzy888.com _🇺🇸US_12876
-      - 🇸🇪 SE_7988 |46.62Mb
-      - 🇫🇷 FR_3837 |61.14Mb
-      - 🇺🇸 Pool_🇺🇸US_12297
-      - 🇺🇸 sfzy888.com _🇺🇸US_12218
-      - 🇺🇸 US_9805 |16.22Mb
-      - 🇫🇷 sfzy888.com _🇫🇷FR-🇫🇷FR_3484
+      - 🇺🇸 sfzy888.com _🇺🇸US_12219
       - 🇺🇸 sfzy888.com _🇺🇸US_12293
-      - 🇺🇸 sfzy888.com _🇺🇸US_12877
-      - 🇷🇺 Relay_🇷🇺RU-🇷🇺RU_6839
+      - 🇸🇪 SE_7972 |35.80Mb
+      - 🇺🇸 US_13582 | 8.66Mb
+      - 🇺🇸 Pool_🇺🇸US_11132
+      - 🇸🇪 SE_8008 |45.42Mb
+      - 🇺🇸 Pool_🇺🇸US_11090
+      - 🇸🇪 SE_7999 |49.06Mb
+      - 🇺🇸 sfzy888.com _🇺🇸US_12295
+      - 🇹🇷 TR_8323 |36.10Mb
+      - 🇺🇸 Pool_🇺🇸US_9143
 rules:
  - DOMAIN-SUFFIX,local,🎯 全球直连
  - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
