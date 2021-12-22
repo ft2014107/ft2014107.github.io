@@ -33,3 +33,10 @@ function ep05() {
 		document.getElementById('mainvideo').poster='https://pic.imgdb.cn/item/61b9aaa52ab3f51d91550ff6.jpg';
 		
 		}
+function ep06() {
+		document.getElementById('mainvideo').src='https://hk.91io.cn/s/jbRe6Fb/Hawkeye.2021.S01E06.mp4';
+		document.getElementById('mainsub').src='vtt/Hawkeye.2021.S01E06.vtt';
+		document.getElementById('titlehe').innerHTML='鹰眼S01E06——2022.01.21过期';
+		document.getElementById('mainvideo').poster='https://pic.imgdb.cn/item/61c2f61e2ab3f51d91219d7e.jpg';
+
+				}
