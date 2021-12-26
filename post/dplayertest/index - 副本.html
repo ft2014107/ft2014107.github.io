@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title></title>
+	</head>
+	<body>
+		<div id="dplayer"></div>
+		<script src="https://cdn.bootcdn.net/ajax/libs/hls.js/1.0.8-0.canary.7807/hls.min.js"></script>
+		<script src="DPlayer-1.26.0/dist/DPlayer.min.js"></script>
+		<script src="https://cdnjs.loli.net/ajax/libs/blueimp-md5/2.10.0/js/md5.min.js"></script>
+		<script>
+		var url="https://v12.tkzyapi.com/20211124/FQuD3Why/1000kb/hls/index.m3u8";    //这里填写视频地址
+		var id=md5(url);
+		const dp = new DPlayer({
+		    container: document.getElementById('dplayer'),
+		    video: {
+		        url: url,
+				type: 'hls',
+		  },
+		  danmaku: {
+		        id: id,
+		        api: 'https://dplayer.moerats.com/'    //这里填写弹幕地址
+		    }
+		});
+		</script>
+	</body>
+</html>
