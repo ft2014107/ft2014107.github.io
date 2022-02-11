@@ -31,6 +31,6 @@ function ep06() {
 			document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E06——迪幻字幕组';
 				}
 function ep07() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/XrJdKzTd/4QInbJnXRHB00nF9VBqlD8AyKmuCkRPdZZoxpoPLVaQ*';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgopE5SZ/I3PrcK89EEFUH_DxEERx3ijPoP3Y1BKLXvOn9LArBwg*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E07——迪幻字幕组';
 				}
