@@ -18,27 +18,27 @@ function ep05() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/bmMlG3SY/YDo8lXOe4rQBNh9KQtgE4FEnS9neVFSjXAVWTagK51I*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E05';
 				}
-							/*
 function ep06() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/YGMOmxIv/xOx6ZJj305v-f01r0joIbHbYslwp8GkYxm4BnIJCe78*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E06';
 				}
 function ep07() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/oNQlZ4tO/Pw0XBbxmyy0ltk61GLo-iHqTLheZwqIT7oSYO9h02n4*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E07';
 				}
 function ep08() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/gMdlDoUo/pYgmrrAobIwcOrojktII45-sjFA41lOCxL-vYmn6gbs*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E08';
 				}
 function ep09() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/zZDvoZfq/B4sA8resYs45j-kaxhUrIBfXRqpT9XHIvmQVhSoyDOk*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E09';
 				}
 function ep10() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Oq54rzUO/JOw7FVsD6tNTKaZzw9nxk5iYF-OeJczI9_jMIlzEBRw*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E10';
 				}
+				/*
 function ep11() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E11';
