@@ -2,23 +2,23 @@ function ep01() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/raNEBPFe/ZXxJ-EeyjoF9njhSNUt22Tvv-8Lm4hBA20lSnFTOg0o*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E01';
 				}
-/*
 function ep02() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/81rD17FW/vRzem-keTlso0leJWurd6NKJLuOGwdUVV1j63e707cQ*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E02';
 				}
 function ep03() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.com/api/v3/file/sourcejump/YGMOqQTv/CuwqDhYNhJoo9HUxzJWaYz88XrpyEdguQ8k6wPPTKy4*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E03';
 				}
 function ep04() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/aw9leWhl/HJCRJfCGqnpL2rtSArGqVIrj0sj329RcEt72nWLIhPA*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E04';
 				}
 function ep05() {
-			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/bmMlG3SY/YDo8lXOe4rQBNh9KQtgE4FEnS9neVFSjXAVWTagK51I*';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E05';
 				}
+							/*
 function ep06() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=';
 			document.getElementById('titlehe').innerHTML='101忠狗街头日记S01E06';
