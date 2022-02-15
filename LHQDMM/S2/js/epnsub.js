@@ -9,7 +9,7 @@ function ep01() {
 	}
 function ep03() {
 	    document.getElementById('mainvideo').src='https://dwz.ba/8e8Pq';
-	document.getElementById('titlehe').innerHTML='硫磺泉的秘密S021E03——迪幻字幕组';
+	document.getElementById('titlehe').innerHTML='硫磺泉的秘密S02E03——迪幻字幕组';
 	}
 	/*
 function ep04() {
