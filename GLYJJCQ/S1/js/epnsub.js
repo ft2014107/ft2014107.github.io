@@ -38,6 +38,49 @@ function ep05b() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/81yZ3bcW/m-AXYRIkL0d3-Gpf5X-zFBbhyn0-havxbqDD3QjH8yY*';
 			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E05b 超市丑闻';
 				}
+function ep06a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgaBA6iZ/j5kU-naZhfMB729t8o61JNVQInrA4tOeFC3S5SW0gVY*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E06a 照看蟋蟀';
+				}
+function ep06b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/raOve4fe/zD9t77L5T6uY_eFSuOq5DSKv6IKiHDwTmDkQ4P7BaJ4*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E06b 后空翻比尔';
+				}
+function ep07a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/81mLmpTW/mkYMUkSR2ZIxBGCdEvaMnNzV_a5vlE1EWoS72C2biu0*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E07a 巴里·酷达';
+				}
+function ep07b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/bmQqQLuY/HN35dFxXzIX9vpJCztwLSnoT5R6TcUfxikiO3XzmsiQ*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E07b 鸟妈妈';
+				}
+function ep08a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Md48obcv/OoTWSRut7Q4pXqmq1sxcHNlNpUiGTCKBjcslQgUycF0*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E08a 拍照行动';
+				}
+function ep08b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/OqobyxTO/xgtvgxkUpSiiFaXttLomnkJyJJSLskcscIdZcSdeLkM*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E08b 解放雷米';
+				}
+function ep09a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/51GJ61iJ/0DCNt3HQXB4sLNm09Sr6XQUCdwxRXN3ZKXZxSBHFv34*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E09a 游行日';
+				}
+function ep09b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgaQeBsZ/nsO2kMcVDkv4HxoEXIrIirq_lnOtXcPuSmw4u1CVXdU*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E09b 蓝土豆';
+				}
+function ep10a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/vkvQZxsq/EFbo2Bgs432ArFlyTtWFTcN2t72sEu9LgX4VCrKRItE*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E10a 猎熊';
+				}
+function ep10b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgaY1BIZ/dM0JbfJUTxjsljwwyiQq4AuHLJia81nxXJuOyy26KCo*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E10b DIY玩家';
+				}
+
+
+
 
 
 
