@@ -78,9 +78,42 @@ function ep10b() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgaY1BIZ/dM0JbfJUTxjsljwwyiQq4AuHLJia81nxXJuOyy26KCo*';
 			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E10b DIY玩家';
 				}
-
-
-
+function ep11a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Z9dlnZuo/_bLgBiSmoflfbM7mxQ7CjB-8DcCtIw5KvI7iMdZHdr0*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E11a 大堵车';
+				}
+function ep11b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/yGPyQrI5/RVzNyn6Dwxph4s_0cMmYcWGw1yIHa1RLD_mBAItQNig*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E11b 撤退套房';
+				}
+function ep12a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/oNnl4otO/hXPjIM8EvNHEMnuDXO4F3odRuQCqU7ASsyhWRvfgUpQ*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E12a 石像怪';
+				}
+function ep12b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/qdzloEUd/5bnQEfj9BIPBWAGC7y10EFtnTG7cILpmj56f7sYxsx0*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E12b 喂饱比尔';
+				}
+function ep13a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/3nmqrGhD/3jj5_3jGXjD4gQTyJVBe898s805H_-CwCq_hVi0cD1M*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E13a 家族遗产';
+				}
+function ep13b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/awKrEpsl/zCsNZcGwrT67t1kQH72EWOiZJp37M4sQYyaKlbXXzNs*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E13b 涂鸦失误';
+				}
+function ep14a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/oNn5x9TO/yRIpm5b03IiIWbUpZVoYuIcxR37WIj2WAah0KKNOXyc*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 01E14a 蟋蟀的电影分级';
+				}
+function ep14b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/7oJzGwhx/01twbhXOUol8Xu-wm4x5UzrOP3JPlZF7F3Tc8xfIcY8*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 01E14b 共享房屋的舞会';
+				}
+function ep15() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/J8NX1mhz/aeBFcbfmqYVdvJ7CM0vV6TWkszaTSh6q741mHbeU4p4*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E15 血月';
+				}
 
 
 
