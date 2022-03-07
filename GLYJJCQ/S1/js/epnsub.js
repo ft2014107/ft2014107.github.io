@@ -114,6 +114,47 @@ function ep15() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/J8NX1mhz/aeBFcbfmqYVdvJ7CM0vV6TWkszaTSh6q741mHbeU4p4*';
 			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E15 血月';
 				}
+function ep16a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/xq862wce/Xf-VMMn88CGtjSpGUCCyZRfAxqJDHRGNybzjtGDYApk*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E16a 蟋蟀的鞋子';
+				}
+function ep16b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/lmyn7ASb/B7l9P8P-LCI2BsDinrVqdCsTBaEoPBFlCB-B3hUkd74*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E16b 斗争';
+				}
+function ep17a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/DobZ7PH9/OaAXPKpbb4Yb-Mx57e_0mAEF_luA2_5yFQ57TcNJr0w*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E17a 大新闻';
+				}
+function ep17b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgalx1sZ/F0gfg_iMY5DvpWBGZNHkA4I-sp2VCiSUY3eg2wiio7g*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E17b 网络霸凌';
+				}
+function ep18a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.com/api/v3/file/sourcejump/QPy5r7Hb/Q-ITLcSE82xRBp3caEHq3UauMwfk_I_m-UiWHUMNr9E*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E18a 提莉的观光游';
+				}
+function ep18b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/YGWaKLtv/v_h838ipDvK2u6A5HzQus_IZ7kd_0jKOpfbayMpOAMc*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E18b 晚宴';
+				}
+function ep19a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/3nm8B1HD/BmnLMjuZWTkqLgmLeBXvqf_JCvpUg56B0UK5tuK3Nfo*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E19a 大促销';
+				}
+function ep19b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/81mQ7KiW/pGhVRE_Q3WgSA_8garM5JDDBF-KKcz2plMIarjlTxGw*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E19b 禁忌猫咪';
+				}
+function ep20a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/bmQNoxfY/dlnTz6bNH3N8xs29tzP0OtMB4fOSlgYcHcV8_Q_sFnw*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E20a 咖啡寻踪';
+				}
+function ep20b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/P8glEaCO/H-F_pqn4E6uP1FsbQOWT4Clajla7Suy_wPnJqK8Gq1c*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E20b 菲尼克斯的反抗';
+				}
+
 
 
 
