@@ -1,7 +1,7 @@
 
 function ep01(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E01';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0VhX3RpeGppLWpGRnA3c21vdEVMS3M4QlVWcWNSclJXODR5ZTY2SVNIVEJyS1E_ZT04dTJqZjk.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/kOloevcA/ljeqUH09ZKFfCpoiEdqDPP0Tg9y1H_tqgwiSbbZNaFA*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
@@ -14,7 +14,7 @@ function ep01(){
 
 function ep02(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E02';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0VVVGtqWlZMUlE5RGpEMS02Q2JUX2owQmRJcWtsckc3Mmx6VkFhUElSaXJJWFE_ZT1MUHlnZ2M.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/E5P1zpC9/g7R19ia3H6MUw3WAqGMW2DWYf1rBenGlDg7Yy6AQzjk*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
@@ -27,7 +27,7 @@ function ep02(){
 
 function ep03(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E03';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0VYalk0OFQ4blB4RGhNNFZLaS1Id1JjQndGVUNJU1RjQURUc3JqXzBJcTBnR3c_ZT1BWnVRZ0Q.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/81DdzKCW/uAHjqigxVEDx-n4vAh12qr-t9Q7tCbcinjuxZvRFWPk*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
@@ -40,7 +40,7 @@ function ep03(){
 			
 function ep04(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E04';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0VhUDZNajB2dUxKUHVOaU0zejNBdDFFQnhub0d0a1YyUDAxUGxpbU5Najl4blE_ZT0yRXNRYTM.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/QPobKNHb/bnm8cTi_o2lxOMwlo4D_VcqWvvubo846KY-0ew68v3Q*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
@@ -53,7 +53,7 @@ function ep04(){
 			
 function ep05(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E05';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0VYLU9KemNIa0xSR2t3S0kxLS04OVhBQjVtSFlFWlR2cm5ON1dFUzRJR2VqcFE_ZT1GZERDR3o.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/Nl1aPEsW/-ulvSX9zQZquQ5aMu8MfzGcUYOpAya4Qm-Jyt18zBR8*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
@@ -66,7 +66,7 @@ function ep05(){
 			
 function ep06(){
 	document.getElementById('titlehe').innerHTML='安迪沃霍尔时代日记 E06';
-	var url="https://link.jscdn.cn/sharepoint/aHR0cHM6Ly95MmRscS1teS5zaGFyZXBvaW50LmNvbS86djovZy9wZXJzb25hbC9odWlodWlfeTJkbHFfb25taWNyb3NvZnRfY29tL0ViT2NxSzFrODN0QXZ1R1lTY2Jjbks4QnBlamIwbmNWTng2T2VudUFUY0txalE_ZT1jM2g0R3c.mp4"
+	var url="https://pan.bilnn.cn/api/v3/file/sourcejump/Xrza3Ntd/ir2Ge1N4F-ceUw4rOchIGBgARZ8154r3w15Sa_uDXNM*"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
 			video: {url: url,},
