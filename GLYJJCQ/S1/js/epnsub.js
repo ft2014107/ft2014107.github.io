@@ -154,7 +154,74 @@ function ep20b() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/P8glEaCO/H-F_pqn4E6uP1FsbQOWT4Clajla7Suy_wPnJqK8Gq1c*';
 			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E20b 菲尼克斯的反抗';
 				}
-
+function ep21() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/awlwrWUl/PDa6PBiroV1aD7ffDM1Qx3c3k_pcWqgFMovYCZ6_d7g*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E21 出狱';
+				}
+function ep22a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/2l1OOlIG/O8uhPYa2xreGF6VL_svwrDJw_9-Qu3nrBLzCU1NumNg*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E22a 黑夜比尔';
+				}
+function ep22b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/WXqww1T9/BBIw4NZS5jOz7pEohlJ_T4F1bNbO7ZsFVL9bNO7MYwA*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E22b 便宜的蛇';
+				}
+function ep23a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/kOlkM4SA/XCXKU0ivP9LxFHS1wDuPYEnrK9ro3nyC0iBQ-QEVZ1s*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E23a 丰收晚宴';
+				}
+function ep23b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/WXqPYDU9/4ClsmHjkztVhFhOaZSm5ptALeveFDYkrr6OtH1d7cLY*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E23b 大赢家';
+				}
+function ep24a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/KlBxNrcQ/DmnhQQ6hjChrO9htH18n2Km3ybriFDAYoBLaMq8AJXw*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E24a 嗨，亨利';
+				}
+function ep24b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/QPo8gxHb/I3B1TU3chLqbi_dWCW09_b1Sc37YvU_smoRYaTxCnUM*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E24b 旁观者';
+				}
+function ep25a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/d59q2nTb/3Azp6m-xV7v9UQd1MRtVsu9EFqvaPE4SF62iNPgIikk*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E25a 牙疼';
+				}
+function ep25b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/51oxqBtJ/qyBnbD7FbpCCDn1gtcN-VxYlgIKZPydWnoRsISz_klo*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E25b 闺蜜玩通宵';
+				}
+function ep26a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/nOlndbIe/xcS8qmWGjvfMRKyN8RaFb2-ycjOQqP_z4SEo119OZxA*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣S01E26a 拖车危机';
+				}
+function ep26b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/gMl47oUo/Td8KNuEEDSEYgBWtkGeITDFx-0tm-RHa1dc-S8lsO3E*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣S01E26b 豪宅狂欢';
+				}
+function ep27a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Z9Agnpio/pQDq-UUI0ftyaX1wOD7IVEJb6nGQKp5aC35irP6u2fU*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E27a 情人节舞会';
+				}
+function ep27b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Do8xkEC9/STMU1xX-4wrNLoguvd3Ntj599pDNQZ1toCSFHLmLB0Q*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E27b 格林一家的街区';
+				}
+function ep28a() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/xqlblATe/tqwwqwHWEdGxIEcQ6Yvkm85Jj4pRZrgTfm8nL--uXgU*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E28a 喧嚣公园';
+				}
+function ep28b() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Z9AgA2fo/U4taUxxUvhI0_2dt2gZxKUyOZ7B7dSS8pWUK6SHCSmo*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E28b 蟋蟀的饼干';
+				}
+function ep29() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/WXkyEpU9/4rfHsNnLFQmtrXjKF9pjS3qKH6u-xdXLtsrIJY2WufA*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E29 臭鼬袭击_砍坏萨克逊';
+				}
+function ep30() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/51PzvEIJ/wQ4KAE9DAVCUiKZ88u8YJtfRVUWFmkoY_6hdQO6A0pk*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S01E30 蟋蟀的地盘_志愿者提莉';
+				}
 
 
 
