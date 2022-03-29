@@ -38,3 +38,7 @@ function ep08() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/gM2oyqTo/G90yIrC7SVSnqndHoKaeYlrOdzA2ohF1u-_qbYqdeIE*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E08——迪幻字幕组';
 				}
+function ep09() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/6WbvqPSg/6KqDJ1Z2sfxB474LPRiUn_MQYqlIvakFWvjAxKvsVOg*';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E09——迪幻字幕组';
+				}
