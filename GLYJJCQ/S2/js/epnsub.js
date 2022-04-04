@@ -78,6 +78,51 @@ function ep20() {
 			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/eWzvJpHZ/tP1eM8uQvWP99KDs9mmdPS729i5EE96RNHSzMufemNk*';
 			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E20 请安静_奇普打击';
 				}
+function ep21() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/QP8LlQFb/YE-v5fN8FjUGNasrO4G3lHJdHj67ixZngyGrAdF0KTI*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E21 现代奇普启示录';
+				}
+function ep22() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/NldeylSW/C2Sqs7StiZMdoQ8BeWFjnXA_XOJgvzcrb0tDfaPsyBA*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E22 房租管制_黄金泳池';
+				}
+function ep23() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/3nxXL9CD/GmkGBiwhnIKjTaPZ2Fv94T1mUassBamXBLuyVOAO1BA*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E23 大愿望_格林冬季';
+				}
+function ep24() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/raXpmgue/ylHi03BA_ygFGFD0jn8pA7o1THogw9jpq8j8302fp2E*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E24 法师与迷宫_好的卡拉OK';
+				}
+function ep25() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/KlxJZpIQ/g149qnxEYT32o9qBuLDBBW-esUvGgk2x-TnkwTGukUI*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E25 约会之夜_房间';
+				}
+function ep26() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/bmZ7E4sY/N8OJac_9jKQo-KQDYEu901maXC3QOgRPtOmpQDHy1vk*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E26 哔哔_一售而空';
+				}
+function ep27() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/pmPM68cw/_Y2p_Wgm6SAXqNKj3QP4buoegH5SxoScL_noGrsm-Zc*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E27 快餐_意大利面理论';
+				}
+function ep28() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/oN8lbmhO/2GBtlePRaXX0pZWJ8Ev8VJGyZ35V5fQD5QZE_kCXPT8*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E28 叮咚人_动画憎恶';
+				}
+function ep29() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/gMAlYaso/qSlV-tecsa__HNBu_GLIDl3F9qrI1MyR_TdBrfXBiII*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E29 货车_击球女孩';
+				}
+function ep30() {
+			document.getElementById('mainvideo').src='https://v.ini0.com/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/yG1dk7t5/rq7BMYWQCLEgvFC-EAMfDSqe17-JGx3RPwwYDXjgR90*';
+			document.getElementById('titlehe').innerHTML='格林一家进城趣 S02E30 吉莉表姐_葛罗莉亚的咖啡馆';
+				}
+
+
+
+
+
 
 
 
