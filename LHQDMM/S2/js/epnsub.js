@@ -20,11 +20,11 @@ function ep05() {
 		    document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/deefun/%E7%A1%AB%E7%A3%BA%E6%B3%89%E7%9A%84%E7%A7%98%E5%AF%86%E8%BF%AA%E5%B9%BB/S02/S02E05.mp4';
 		document.getElementById('titlehe').innerHTML='硫磺泉的秘密S02E05——迪幻字幕组';
 		}
-			/*
 function ep06() {
-			document.getElementById('mainvideo').src='https://dwz.ba/2s242';
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/deefun/%E7%A1%AB%E7%A3%BA%E6%B3%89%E7%9A%84%E7%A7%98%E5%AF%86%E8%BF%AA%E5%B9%BB/S02/S02E06.mp4';
 			document.getElementById('titlehe').innerHTML='硫磺泉的秘密S02E06——迪幻字幕组';
 				}
+			/*
 function ep07() {
 			document.getElementById('mainvideo').src='https://dwz.ba/28K4q';
 			document.getElementById('titlehe').innerHTML='硫磺泉的秘密S02E07——迪幻字幕组';
