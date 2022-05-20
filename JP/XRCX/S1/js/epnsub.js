@@ -18,6 +18,11 @@ function ep05() {
 			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/05.mp4';
 			document.getElementById('titlehe').innerHTML='夏日重现 S01E05';
 				}
+function ep06() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/06.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E06';
+				}
+
 
 
 
