@@ -52,3 +52,12 @@ function ep11() {
 			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wg74wEiZ/Lw7nKntpcgvbGSbSpYFDhXCg6j3EtFj5xs5Kw3bNFx4*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E11——迪幻字幕组';
 				}
+
+function ep12() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/vk58gvFq/0SdNRqoR1tV4hy8wJznz6rHK6KqS045tJv7hD9fK_jQ*';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E12——迪幻字幕组';
+				}	
+				
+				
+				
+				
