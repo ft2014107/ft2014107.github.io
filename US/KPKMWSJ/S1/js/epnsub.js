@@ -10,7 +10,10 @@ function ep03() {
 			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://vd4.bdstatic.com/mda-nevm57wjsa0wjgrf/720p/h264/1653922711814788462/mda-nevm57wjsa0wjgrf.mp4';
 			document.getElementById('titlehe').innerHTML='库普和卡米问世界 S01E03';
 				}
-
+function ep04() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://vd4.bdstatic.com/mda-nf4c94a3xjwg6isk/720p/h264/1654418504651542180/mda-nf4c94a3xjwg6isk.mp4';
+			document.getElementById('titlehe').innerHTML='库普和卡米问世界 S01E04';
+				}
 
 
 
