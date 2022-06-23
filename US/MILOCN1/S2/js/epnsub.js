@@ -37,12 +37,30 @@ function ep08() {
 			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E08.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E08.mkv';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E08';
 				}
-
-
-
-
-
-
+function ep09() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E09.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E09';
+				}
+function ep10() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E10.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E10';
+				}
+function ep11() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E11.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E11';
+				}
+function ep12() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E12.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E12';
+				}
+function ep13() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E13.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E13';
+				}
+function ep14() {
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/name/S02E02.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E14.mp4';
+			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E14';
+				}
 
 
 

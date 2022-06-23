@@ -7,15 +7,17 @@ function ep02() {
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E02';
 				}
 function ep03() {
-			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://f.video.weibocdn.com/u0/kVN3Ta6cgx07X11xu60o0104120ecflS0E060.mp4?label=mp4_1080p&amp;template=1920x1080.25.0&amp;media_id=4782759420559449&amp;tp=8x8A3El:YTkl0eM8&amp;us=0&amp;ori=1&amp;bf=2&amp;ot=h&amp;ps=3lckmu&amp;uid=684C0R&amp;ab=7397-g1,6377-g0,8013-g0,3601-g28,1258-g0,7598-g0&amp;Expires=1655786772&amp;ssig=NKQ4mC%2FKe%2F&amp;KID=unistore,video';
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/US/%E7%A9%B7%E9%80%94%E6%9C%AB%E8%B7%AF%EF%BC%9A%E7%81%B5%E5%BC%82%E6%B8%B8%E4%B9%90%E5%9B%AD/03.mp4';
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E03';
 				}
 function ep04() {
-			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://f.video.weibocdn.com/u0/omNeuDeRgx07X2A7MWW40104120dGu0H0E050.mp4?label=mp4_1080p&amp;template=1920x1080.25.0&amp;media_id=4783113142992996&amp;tp=8x8A3El:YTkl0eM8&amp;us=0&amp;ori=1&amp;bf=2&amp;ot=h&amp;ps=3lckmu&amp;uid=684C0R&amp;ab=7397-g1,6377-g0,8013-g0,3601-g28,1258-g0,7598-g0&amp;Expires=1655870933&amp;ssig=dPLDOjIKh2&amp;KID=unistore,video';
+			document.getElementById('mainvideo').src='https://vip.parwix.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/US/%E7%A9%B7%E9%80%94%E6%9C%AB%E8%B7%AF%EF%BC%9A%E7%81%B5%E5%BC%82%E6%B8%B8%E4%B9%90%E5%9B%AD/04.mp4';
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E04';
 				}
-
-
+function ep05() {
+			document.getElementById('mainvideo').src='https://jx.parwix.com:4433/player/?url=https://finder.video.qq.com/251/20302/stodownload';
+			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E05';
+				}
 
 
 
