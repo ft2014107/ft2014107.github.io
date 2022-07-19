@@ -50,6 +50,11 @@ function ep13() {
 			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/13.mp4';
 			document.getElementById('titlehe').innerHTML='夏日重现 S01E13';
 				}
+function ep14() {
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/14.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E14';
+				}
+
 
 
 
