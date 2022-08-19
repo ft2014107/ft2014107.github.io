@@ -1,5 +1,5 @@
 function ep01() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E01.mkv';
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/name/S02E01.mp4/?path=/%E7%B1%B3%E7%BD%97%E5%A2%A8%E8%8F%B2%E5%AE%9A%E5%BE%8B/%E5%9B%BD%E9%85%8DS2/S02E01.mkv';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S02E01';
 				}
 				
