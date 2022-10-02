@@ -82,10 +82,22 @@ function ep21() {
 			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/21.mp4';
 			document.getElementById('titlehe').innerHTML='夏日重现 S01E21';
 				}
-
-
-
-
+function ep22() {
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/22.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E22';
+				}
+function ep23() {
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/23.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E23';
+				}
+function ep24() {
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/24.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E24';
+				}
+function ep25() {
+			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://od.bodence.top/api/raw/?path=/%E6%97%A5%E6%BC%AB/%E5%A4%8F%E6%97%A5%E9%87%8D%E7%8E%B0/25.mp4';
+			document.getElementById('titlehe').innerHTML='夏日重现 S01E25';
+				}
 
 
 				/*模板：
