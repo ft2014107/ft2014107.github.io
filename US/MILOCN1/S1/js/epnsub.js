@@ -1,85 +1,85 @@
 function ep01() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx3';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx3';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E01';
 				}
 function ep02() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx4';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx4';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E02';
 				}
 function ep03() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx5';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx5';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E03';
 				}
 function ep04() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx6';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx6';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E04';
 				}
 function ep05() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx7';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx7';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E05';
 				}
 function ep06() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx8';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx8';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E06';
 				}
 function ep07() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bx9';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bx9';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E07';
 				}
 function ep08() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bxA';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bxA';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E08';
 				}
 function ep09() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bxB';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bxB';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E09';
 				}
 function ep10() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bxC';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bxC';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E10';
 				}
 function ep11() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byr';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byr';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E11';
 				}
 function ep12() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/bys';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/bys';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E12';
 				}
 function ep13() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byt';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byt';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E13';
 				}
 function ep14() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byu';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byu';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E14';
 				}
 function ep15() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byv';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byv';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E15';
 				}
 function ep16() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byw';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byw';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E16';
 				}
 function ep17() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byx';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byx';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E17';
 				}
 function ep18() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byy';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byy';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E18';
 				}
 function ep19() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/byz';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/byz';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E19';
 				}
 function ep20() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/by2';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/by2';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E20';
 				}
 function ep21() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=https://get.tucao.in/by3';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=https://get.tucao.in/by3';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E21';
 				}
 
@@ -96,7 +96,7 @@ function ep21() {
 
 				/*模板：
 function ep() {
-			document.getElementById('mainvideo').src='https://jx.bozrc.com:4433/player/?url=';
+			document.getElementById('mainvideo').src='https://www.8090g.cn/?url=';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E';
 				}
 				*/
