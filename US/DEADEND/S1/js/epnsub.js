@@ -7,7 +7,7 @@ function ep02() {
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E02';
 				}
 function ep03() {
-			document.getElementById('mainvideo').src='https://jx.playerjy.com/?url=https://od.bodence.top/api/raw/?path=/US/%E7%A9%B7%E9%80%94%E6%9C%AB%E8%B7%AF%EF%BC%9A%E7%81%B5%E5%BC%82%E6%B8%B8%E4%B9%90%E5%9B%AD/S1/03.mp4';
+			document.getElementById('mainvideo').src='https://jx.playerjy.com/?url=https://vd3.bdstatic.com/mda-pfa9y5hhkphwpbgm/720p/h264/1686467105755256407/mda-pfa9y5hhkphwpbgm.mp4';
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E03';
 				}
 function ep04() {
