@@ -1,5 +1,5 @@
 function ep01() {
-			document.getElementById('mainvideo').src='https://jx.playerjy.com/?url=https://v3-default.ixigua.com/808b050433db65d26ac30b2855b55961/648610f4/video/tos/cn/tos-cn-ve-4/o0mQhIZEzhOkrAdqQhtgAnUC8f3dEyAAPOUIEF/?ft=ragb-0071jevGHhWH6xRfg4U74BO5QIjsD2z7tG';
+			document.getElementById('mainvideo').src='https://jx.playerjy.com/?url=https://v3-default.ixigua.com/808b050433db65d26ac30b2855b55961/648610f4/video/tos/cn/tos-cn-ve-4/o0mQhIZEzhOkrAdqQhtgAnUC8f3dEyAAPOUIEF/?ft=ragb-0071jevGHhWH6xRfg4U74BO5QIjsD2z7tG.mp4';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E01';
 				}
 function ep02() {
