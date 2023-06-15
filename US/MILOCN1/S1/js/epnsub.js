@@ -184,7 +184,7 @@ function ep21() {
 
 				/*模板：
 function ep() {
-			document.getElementById('mainvideo').src='https://www.pouyun.com/?url=';
+			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=';
 			document.getElementById('titlehe').innerHTML='米罗墨菲定律 S01E';
 				}
 				*/

@@ -1,6 +1,6 @@
 
 function ep01() {
-	    document.getElementById('mainvideo').src='https://www.pouyun.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/doEz1nhb/jAu3sJVcXY21B4jHb1depXVLtEQGr0QfdGKJpZQwR3A*';
+	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/doEz1nhb/jAu3sJVcXY21B4jHb1depXVLtEQGr0QfdGKJpZQwR3A*';
 	document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E01';
 	}
 
@@ -14,7 +14,7 @@ function ep01() {
 
 	/*
 function ep() {
-	    document.getElementById('mainvideo').src='https://www.pouyun.com/?url=';
+	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=';
 	document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E';
 	}
 	*/
