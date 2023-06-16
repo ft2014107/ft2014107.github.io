@@ -23,11 +23,11 @@ function ep06() {
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E06';
 				}
 function ep07() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/US/%E7%A9%B7%E9%80%94%E6%9C%AB%E8%B7%AF%EF%BC%9A%E7%81%B5%E5%BC%82%E6%B8%B8%E4%B9%90%E5%9B%AD/S1/07.mp4';
+			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://vd2.bdstatic.com/mda-pfe6ey4581azrfqs/720p/h264/1686803761626328046/mda-pfe6ey4581azrfqs.mp4';
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E07';
 				}
 function ep08() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/US/%E7%A9%B7%E9%80%94%E6%9C%AB%E8%B7%AF%EF%BC%9A%E7%81%B5%E5%BC%82%E6%B8%B8%E4%B9%90%E5%9B%AD/S1/08.mp4';
+			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://vd3.bdstatic.com/mda-pff91kjx3tii9agr/720p/h264/1686902767033135184/mda-pff91kjx3tii9agr.mp4';
 			document.getElementById('titlehe').innerHTML='穷途末路：灵异游乐园 S01E08';
 				}
 function ep09() {
