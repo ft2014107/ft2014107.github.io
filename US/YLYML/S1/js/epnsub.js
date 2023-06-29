@@ -1,63 +1,171 @@
-function ep02() {
-	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/deefun/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89.The.Ghost.and.Molly.McGee.S01E02.WEB-HR.720p.Chs.Eng-Deefun%E8%BF%AA%E5%B9%BB%E5%AD%97%E5%B9%95%E7%BB%84.mp4';
-	document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E02——迪幻字幕组';
-	document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E02——迪幻字幕组';
+function ep01() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/01.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
 	}
 
-function ep01() {
-	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/deefun/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89.The.Ghost.and.Molly.McGee.S01E01.WEB-HR.720p.Chs.Eng-Deefun%E8%BF%AA%E5%B9%BB%E5%AD%97%E5%B9%95%E7%BB%84V2.mp4';
-	document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
-	document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+function ep02() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E02——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/02.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
 	}
 	
 function ep03() {
-	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/deefun/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89.The.Ghost.and.Molly.McGee.S01E03.WEB-HR.720p.Chs.Eng-Deefun%E8%BF%AA%E5%B9%BB%E5%AD%97%E5%B9%95%E7%BB%84.mp4';
-	document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E03——迪幻字幕组';
-	document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E03——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E03——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/03.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
 	}
+	
 function ep04() {
-	    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/deefun/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89.The.Ghost.and.Molly.McGee.S01E04.WEB-HR.720p.Chs.Eng-Deefun%E8%BF%AA%E5%B9%BB%E5%AD%97%E5%B9%95%E7%BB%84.mp4';
-	document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E04——迪幻字幕组';
-	document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E04——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/04.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
 	}
+	
 function ep05() {
-		    document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/deefun/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89.The.Ghost.and.Molly.McGee.S01E05.WEB-HR.720p.Chs.Eng-Deefun%E8%BF%AA%E5%B9%BB%E5%AD%97%E5%B9%95%E7%BB%84.mp4';
-		document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E05——迪幻字幕组';
-		document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E05——迪幻字幕组';
-		}
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/05.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
 function ep06() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/J8eDAXUz/qa8gFDIx16V_bsIklsPL0XgcA_UAp1nRXJqSOyK4yJI*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E06——迪幻字幕组';
-			document.getElementById('webtitle').innerHTML='幽灵与莫莉S01E06——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/06.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
 function ep07() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wgopE5SZ/I3PrcK89EEFUH_DxEERx3ijPoP3Y1BKLXvOn9LArBwg*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E07——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/07.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
 function ep08() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/gM2oyqTo/G90yIrC7SVSnqndHoKaeYlrOdzA2ohF1u-_qbYqdeIE*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E08——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/08.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
 function ep09() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/6WbvqPSg/6KqDJ1Z2sfxB474LPRiUn_MQYqlIvakFWvjAxKvsVOg*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E09——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/09.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
 
 function ep10() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/Gdv4NpSZ/gvK1zwzPRO6DQ4flVjcs_1-3T3-TpRKK28ty-lozcoA*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E10——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/10.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
 
 function ep11() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/wg74wEiZ/Lw7nKntpcgvbGSbSpYFDhXCg6j3EtFj5xs5Kw3bNFx4*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E11——迪幻字幕组';
-				}
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/11.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
 
 function ep12() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://pan.bilnn.cn/api/v3/file/sourcejump/vk58gvFq/0SdNRqoR1tV4hy8wJznz6rHK6KqS045tJv7hD9fK_jQ*';
 			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E12——迪幻字幕组';
-				}	
-				
-				
-				
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/12.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep13() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E13——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/13.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep14() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E14——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/14.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep15() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E15——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/15.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep16() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E16——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/16.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep17() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E17——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/17.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep18() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E18——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/18.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
+	
+function ep19() {
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E19——迪幻字幕组';
+	var url="https://od.bodence.top/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/19.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+	}
 				

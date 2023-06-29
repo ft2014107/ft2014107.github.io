@@ -62,6 +62,30 @@ function ep08() {
 			video: {url: url,},
 			});
 				}
+function ep09() {
+			document.getElementById('titlehe').innerHTML='硫磺泉的秘密S01E09——迪幻字幕组';
+	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E7%A1%AB%E7%A3%BA%E6%B3%89%E7%9A%84%E7%A7%98%E5%AF%86/S1/09.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+				}
+function ep10() {
+			document.getElementById('titlehe').innerHTML='硫磺泉的秘密S01E10——迪幻字幕组';
+	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E7%A1%AB%E7%A3%BA%E6%B3%89%E7%9A%84%E7%A7%98%E5%AF%86/S1/10.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+				}
+function ep11() {
+			document.getElementById('titlehe').innerHTML='硫磺泉的秘密S01E11——迪幻字幕组';
+	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E7%A1%AB%E7%A3%BA%E6%B3%89%E7%9A%84%E7%A7%98%E5%AF%86/S1/11.mp4"
+	var id=md5(url);
+	const dp = new DPlayer({container: document.getElementById('dplayer'),
+			video: {url: url,},
+			});
+				}
 			/*
 */
 //播放器地址：https://jx.xmflv.com/?url=
