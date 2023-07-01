@@ -26,7 +26,7 @@ function ep03() {
 	}
 	
 function ep04() {
-			document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E01——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E04——迪幻字幕组';
 	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E4%BB%93%E9%BC%A0%E4%B8%8E%E6%A0%BC%E8%95%BE%E7%89%B9/S1/04.mp4"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
@@ -35,7 +35,7 @@ function ep04() {
 	}
 	
 function ep05() {
-			document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E01——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='仓鼠与格蕾特S01E05——迪幻字幕组';
 	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E4%BB%93%E9%BC%A0%E4%B8%8E%E6%A0%BC%E8%95%BE%E7%89%B9/S1/05.mp4"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),

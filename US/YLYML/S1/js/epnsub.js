@@ -26,7 +26,7 @@ function ep03() {
 	}
 	
 function ep04() {
-			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E04——迪幻字幕组';
 	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/04.mp4"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
@@ -35,7 +35,7 @@ function ep04() {
 	}
 	
 function ep05() {
-			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E01——迪幻字幕组';
+			document.getElementById('titlehe').innerHTML='幽灵与莫莉S01E05——迪幻字幕组';
 	var url="https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E5%B9%BD%E7%81%B5%E4%B8%8E%E8%8E%AB%E8%8E%89/S1/05.mp4"
 	var id=md5(url);
 	const dp = new DPlayer({container: document.getElementById('dplayer'),
