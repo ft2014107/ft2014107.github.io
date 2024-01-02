@@ -7,7 +7,7 @@ function ep02() {
 			document.getElementById('titlehe').innerHTML='海莉救世界S01E02——迪幻字幕组';
 				}
 function ep03() {
-			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://vd3.bdstatic.com/mda-pfa9y5hhkphwpbgm/720p/h264/1686467105755256407/mda-pfa9y5hhkphwpbgm.mp4';
+			document.getElementById('mainvideo').src='https://jx.xmflv.com/?url=https://od.bodence.top/api/raw/?path=/%E8%BF%AA%E5%B9%BB/%E6%B5%B7%E8%8E%89%E6%95%91%E4%B8%96%E7%95%8C/S1/03.mp4';
 			document.getElementById('titlehe').innerHTML='海莉救世界S01E03——迪幻字幕组';
 				}
 function ep04() {
